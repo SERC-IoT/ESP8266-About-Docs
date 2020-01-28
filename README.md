@@ -20,16 +20,16 @@ The ESP8266 is a low cost WiFi enabled microcontroller produced by manufacturer 
 
 There are many different ESP8266 based development boards available with the chip I/O broken out to breadboard friendly pins.
 
-![collection of development boards](assets\development-boards-1.png)
+![collection of development boards](assets/development-boards-1.png)
 
 <br>
 
 ### Pinouts
 
-![Node MCU pinouts](assets\nodemcu_pins.png)
+![Node MCU pinouts](assets/nodemcu_pins.png)
 Node MCU Pinout
 
-![Wemos D1 mini pinouts](assets\wemos-d1-mini-pinout.png)
+![Wemos D1 mini pinouts](assets/wemos-d1-mini-pinout.png)
 Wemos D1 mini Pinout
 
 More details about the different output pins on an ESP8266 can be found here: https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
